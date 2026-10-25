@@ -1,0 +1,22 @@
+{
+  "name": "wjx-question-bank-collector",
+  "version": "2.0.1",
+  "private": true,
+  "description": "问卷星选择题题库采集油猴脚本，支持单选、多选、判断与Excel导出，填空和矩阵等题型暂不支持。",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DreamYuande/wjx-question-bank-collector.git"
+  },
+  "scripts": {
+    "check": "node --check wjx-question-bank-collector.user.js"
+  },
+  "keywords": [
+    "javascript",
+    "tampermonkey",
+    "userscript",
+    "wjx",
+    "question-bank",
+    "excel"
+  ]
+}

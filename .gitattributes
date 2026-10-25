@@ -1,0 +1,3 @@
+*.user.js text eol=lf linguist-language=JavaScript linguist-generated=false linguist-vendored=false
+*.md text eol=lf
+LICENSE text eol=lf

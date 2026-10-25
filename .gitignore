@@ -1,0 +1,21 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-store/
+coverage/
+.env
+.env.*
+!.env.example
+# Local collection and verification data
+work/
+outputs/
+*.xlsx
+bank*.json
+*page-snapshot*.json
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
